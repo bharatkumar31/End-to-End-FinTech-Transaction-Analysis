@@ -18,10 +18,21 @@ Python was the primary programming language used in this project. Its simple syn
 ### 2. Pandas:
 Pandas was used for data manipulation and analysis of the MaddoxPay transaction dataset.
 #### Features:
+1. Importing CSV files
+2. Data cleaning and preprocessing
+3. Grouping and aggregating data
+4. Calculating KPIs
+5. Exporting results to CSV and Excel files
+### 3. Matplotlib:
+Matplotlib was used to create visualizations such as:
+1. Bar charts
+2. Line graphs
+3. Pie charts
+4. Trend analysis graphs
+It was also used to save graphs as images and generate PDF reports.
+### 4. PdfPages (Matplotlib Backend):
+PdfPages, available in Matplotlib, was used to combine multiple graphs into a single PDF file. This allowed all charts and visualizations to be stored and shared in one professional report.
+#### Features:
+ - Importing CSV files
+ - Data cleaning and preprocessing
 
-1. **Data Import:** Reading CSV files containing the raw transaction data.
-2. **Data Cleaning:** Converting date columns into proper datetime format, handling missing values, and removing duplicates.
-3. **Data Aggregation:** Grouping data by day, month, quarter, location, and payment method.
-4. **KPI Calculation:** Generating values such as total transactions, average transaction value, and success rate.
-5. **Exporting Results:** Writing processed tables into CSV and Excel formats for reporting.
-### 3. Pandas: 
