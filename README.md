@@ -32,6 +32,7 @@ Matplotlib was used to create visualizations such as:
 It was also used to save graphs as images and generate PDF reports.
 ### 4. PdfPages (Matplotlib Backend):
 PdfPages, available in Matplotlib, was used to combine multiple graphs into a single PDF file. This allowed all charts and visualizations to be stored and shared in one professional report.
+
 **Features:**
  - Importing CSV files
  - Data cleaning and preprocessing
