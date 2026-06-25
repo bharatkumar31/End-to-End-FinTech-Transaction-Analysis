@@ -11,24 +11,26 @@ Export findings in structured formats (Excel reports, PDF of visualizations).
 ## Technology used:
 ### 1. Python: 
 Python was the primary programming language used in this project. Its simple syntax and extensive libraries made it suitable for data analysis, visualization, and report generation.
-#### Features:
-1. Easy and readable syntax
-2. Large library support
-3. Efficient data analysis and visualization
+
+**Features:**
+ - Easy and readable syntax
+ - Large library support
+ - Efficient data analysis and visualization
 ### 2. Pandas:
 Pandas was used for data manipulation and analysis of the MaddoxPay transaction dataset.
-#### Features:
-1. Importing CSV files
-2. Data cleaning and preprocessing
-3. Grouping and aggregating data
-4. Calculating KPIs
-5. Exporting results to CSV and Excel files
+
+**Features:**
+ - Importing CSV files
+ - Data cleaning and preprocessing
+ - Grouping and aggregating data
+ - Calculating KPIs
+ - Exporting results to CSV and Excel files
 ### 3. Matplotlib:
 Matplotlib was used to create visualizations such as:
-1. Bar charts
-2. Line graphs
-3. Pie charts
-4. Trend analysis graphs
+ - Bar charts
+ - Line graphs
+ - Pie charts
+ - Trend analysis graphs
 It was also used to save graphs as images and generate PDF reports.
 ### 4. PdfPages (Matplotlib Backend):
 PdfPages, available in Matplotlib, was used to combine multiple graphs into a single PDF file. This allowed all charts and visualizations to be stored and shared in one professional report.
