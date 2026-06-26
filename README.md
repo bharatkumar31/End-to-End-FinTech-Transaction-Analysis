@@ -8,10 +8,10 @@ The primary objective of this project was to analyze a transaction dataset from 
  - Study the distribution of transaction statuses (success, failed, pending).
  - Identify the top merchants and customers contributing to transaction activity.
  - Export findings in structured formats (Excel reports, PDF of visualizations) like:
- - Create bar graphs, line plots, and pie charts to visually represent trends and comparisons.
+  - - Create bar graphs, line plots, and pie charts to visually represent trends and comparisons.
   - - Export all graphs into a single consolidated PDF report using Matplotlib’s PdfPages.
   - - Compile all tabular data into an Excel report with multiple sheets and formatted tables using openpyxl for readability.
-  - - Exporte all graphs into PNG images, all tables into CSV files.
+  - - Export all graphs into PNG images, all tables into CSV files.
  - Create a visually interactive Tabelau dashboard for the stakeholders.
 ## Technology used:
 ### 1. Python: 
