@@ -1,13 +1,18 @@
 # Maddoxpay-Transaction-Analysis
 ## Objective of the Project:
 MaddoxPay is a digital financial services platform that provides payment, banking, and financial solutions across India. It offers services such as AEPS, money transfer, bill payments, and recharges through its extensive retailer network. 
-The primary objective of this project was to analyze a transaction dataset from MaddoxPay using Python-based data analysis tools. The analysis aimed to:
-Understand transaction patterns and trends over time (daily, monthly, and quarterly).
-Evaluate the performance of different payment methods.
-Examine location-wise activity in terms of both transaction count and value.
-Study the distribution of transaction statuses (success, failed, pending).
-Identify the top merchants and customers contributing to transaction activity.
-Export findings in structured formats (Excel reports, PDF of visualizations).
+The primary objective of this project was to analyze a transaction dataset from MaddoxPay using Python-based data analysis tools and create a visually interactive Tableau dashboard for the stakeholders. The analysis aimed to:
+ - Understand transaction patterns and trends over time (daily, monthly, and quarterly).
+ - Evaluate the performance of different payment methods.
+ - Examine location-wise activity in terms of both transaction count and value.
+ - Study the distribution of transaction statuses (success, failed, pending).
+ - Identify the top merchants and customers contributing to transaction activity.
+ - Export findings in structured formats (Excel reports, PDF of visualizations) like:
+ - Create bar graphs, line plots, and pie charts to visually represent trends and comparisons.
+  - - Export all graphs into a single consolidated PDF report using Matplotlib’s PdfPages.
+  - - Compile all tabular data into an Excel report with multiple sheets and formatted tables using openpyxl for readability.
+  - - Exporte all graphs into PNG images, all tables into CSV files.
+ - Create a visually interactive Tabelau dashboard for the stakeholders.
 ## Technology used:
 ### 1. Python: 
 Python was the primary programming language used in this project. Its simple syntax and extensive libraries made it suitable for data analysis, visualization, and report generation.
