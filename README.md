@@ -15,10 +15,10 @@ The primary objective of this project is to analyze a transaction dataset from a
 
 ## Dashboard Preview-
 <p align="center">
-<img src="dashboard/dashboard_preview_1.png" alt="FinTech Transaction Dashboard" width="100%">
+<img src="dashboard/dashboard_full_preview.png" alt="FinTech Transaction Dashboard" width="100%">
 </p>
 
- - Dashboard is scrollable. For full experience, click the link.
+ - For full dashboard experience, click the link.
 🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/End-to-EndFinTechTransactionAnalysis)
 ## Technology used:
 ### 1. Python: 
