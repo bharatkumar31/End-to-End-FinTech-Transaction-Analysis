@@ -122,18 +122,18 @@ The dataset used in this project contained transaction records with the followin
    
 ## Key Findings:
 ### 1. Overall KPIs:
- - The dataset showed a steady growth in transaction volumes over the observed period.
- - The success rate of transactions was high, indicating reliability of the payment system.
- - The average transaction value remained within a consistent range, reflecting stable customer spending behavior.
+ - The dataset showed a steady growth in transaction volumes over the observed period. Total transaction volume was Rs. 55,48,036/- and total number of transactions were 1625.
+ - The success rate of transactions was good (83.20%), indicating reliability of the payment system.
+ - The average transaction value remained within a consistent range of Rs. 3414/- , reflecting stable customer spending behavior.
 
 ### 2. Transaction Trends:
  - Daily trends revealed fluctuations in transaction counts, often peaking during weekends and festive seasons.
- - Monthly and quarterly analysis showed upward growth (though transaction count decreased a bit but total transaction values increased.
+ - Monthly and quarterly analysis showed upward growth (though transaction count decreased a bit but total transaction values increased.)
  - The increasing trend suggests growing adoption of the company's services among customers and merchants.
  - High valued transactions were also found out.
 
 ### 3. Payment Method Usage:
- - It showed us the most popular methods for transactions. UPI emerged to be the most popular payment method.
+ - It showed us the most popular methods for transactions. UPI emerged to be the most popular payment method with 26.3% transactions.
  - The result suggested that the consumers and Indian public is using more and more digital payment methods such as UPI etc.
  - The increasing trend suggests growing adoption of the company's services among customers and merchants.
  - High valued transactions were also found out.
@@ -144,9 +144,10 @@ The dataset used in this project contained transaction records with the followin
 ### 5. Transaction Status:
  - A majority (83.20%) of the transactions were marked Successful.
  - A small proportion of Failed and Pending transactions highlighted potential areas for technical improvement.
+ - Most failures were from Net Banking(44 transactions failed), least failures were from credit card (only 30 transactions failed).
 
 ### 6. Merchant and Customer Insights:
- - The top 5 merchants accounted for a major share of overall transactions, indicating strong partnerships.
+ - The top 5 merchants accounted for a major share of overall transactions, indicating strong partnerships. Top merchants were Swiggy,BigbBasket, Myntra, Flipkart and Amazon.
  - The top 10 customers were identified as frequent, high-value users—signifying loyal customer segments.
 
 ### 7. Reports and Visualizations:
